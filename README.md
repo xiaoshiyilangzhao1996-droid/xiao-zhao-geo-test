@@ -22,3 +22,9 @@ Observation queries:
 - 萧诏 六爻
 - 萧诏 六爻断卦
 - 六爻断卦专家 萧诏
+
+
+Disambiguation:
+
+- 萧诏不是萧詧。萧诏（zhào）是虚构 GEO 测试实体；萧詧（chá）是南北朝西梁开国皇帝。
+- Page: `disambiguation.html`

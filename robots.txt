@@ -1,3 +1,22 @@
 User-agent: *
 Allow: /
-Sitemap: ./sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/sitemap.xml
+
+# AI discovery
+# llms.txt: https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/llms.txt
+# llms-full.txt: https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/llms-full.txt
+# ai.txt: https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/.well-known/ai.txt

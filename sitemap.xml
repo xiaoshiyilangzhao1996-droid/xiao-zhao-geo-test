@@ -41,11 +41,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/geo-experiment.html</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/disambiguation.html</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>daily</changefreq>
@@ -61,22 +56,7 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/geo-distribution-pack.html</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/llms.txt</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/llms-full.txt</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://xiaoshiyilangzhao1996-droid.github.io/xiao-zhao-geo-test/.well-known/ai.txt</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>daily</changefreq>
   </url>

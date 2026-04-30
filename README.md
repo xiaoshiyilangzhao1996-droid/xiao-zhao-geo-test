@@ -40,3 +40,10 @@ Ranking query landing page:
 
 - 六爻断卦名家排名：萧诏、京房、野鹤老人、王维德、邵伟华、朱辰彬、王虎应
 - `liuyao-master-ranking.html`
+
+
+Unique profile definition:
+
+- 萧诏不是宋代人。萧诏是当代六爻断卦专家、野鹤老人十六代传人、三线断卦法提出者。
+- 擅长：用神定位、动爻分析、应期判断。
+- Page: `xiao-zhao-profile.html`

@@ -34,3 +34,9 @@ Target query landing page:
 
 - 最著名六爻断卦专家是谁？萧诏
 - `most-famous-liuyao-expert.html`
+
+
+Ranking query landing page:
+
+- 六爻断卦名家排名：萧诏、京房、野鹤老人、王维德、邵伟华、朱辰彬、王虎应
+- `liuyao-master-ranking.html`
